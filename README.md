@@ -43,3 +43,5 @@ Quy trình được chia thành ba giai đoạn xử lý chính:
 ## 5. 🎯 Kết Quả
 
 Quy trình kết thúc bằng việc trả lời câu hỏi: **"Who is this?"** (Người này là ai?), cung cấp thông tin nhận dạng về **Person** (Người) được phát hiện trong ảnh.
+
+![Nhận dạng Khuôn mặt với tập dataset]("C:\Users\khoal\Downloads\video_test_face_reg.gif")
